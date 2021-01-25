@@ -11,8 +11,11 @@ You can find my EFI folder in this repository.
 # Hardware
 
 `Motherboard`: ASUS Z10PE-D8_WS
+
 `CPUs`: Intel® Xeon® Processor E5-2683 v4 40M Cache, 2.10 GHz x 2
+
 `GPU`: AMD Radeon RT 5700 XT 50th Anniversary
+
 `Disk`: Samsung SSD 970 EVO Plus 1TB NVMe M.2
 
 # Notice
