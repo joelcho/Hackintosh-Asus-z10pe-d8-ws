@@ -1,0 +1,10 @@
+# ignore all extension-less files
+*
+!/**/
+!*.*
+!gradlew
+
+# ignore all hidden files
+.*
+!.gitignore
+
